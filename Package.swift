@@ -2,8 +2,8 @@
 import PackageDescription
 
 // BEGIN KMMBRIDGE VARIABLES BLOCK (do not edit)
-let remoteKotlinUrl = "https://api.github.com/repos/kpgalligan/KMPPublic/releases/assets/208119570.zip"
-let remoteKotlinChecksum = "fef97734cf57c519688ea0ec5fb0d87f0bcdf725dbac475f0b6808d6f736a62d"
+let remoteKotlinUrl = "https://api.github.com/repos/kpgalligan/KMPPublic/releases/assets/209466499.zip"
+let remoteKotlinChecksum = "e85c192543b7ab0e52dd3f9a384820aae03eb72f14da699a3bf071fdccd25439"
 let packageName = "allshared"
 // END KMMBRIDGE BLOCK
 
